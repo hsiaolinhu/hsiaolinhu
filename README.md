@@ -11,13 +11,13 @@ My research interest includes speech synthesis, neural machine translation and a
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
 
 ### 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
+- Personal Pages: https://xiaolinhu.art (updated recently🔥)
+- Linkedin: https://www.linkedin.com/in/xiaolin-hu-21429019b
 - Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
 - DBLP: https://dblp.org/pid/75/6568-6.html
 
 ### 🔥 News
-- *2022.09*: Three papers are accepted by NeurIPS 2022!
+- *2023.01*: One paper is accepted by ICLR 2023!
 - *2022.06*: Three papers are accepted by ACM-MM 2022!
 - *2022.05*: I join [Sea AI Lab](https://sail.sea.com/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as the audio team leader. We are [hiring researchers and engineers](https://career.sea.com/position/427)!
 - *2022.04*: Three papers are accepted by IJCAI 2022
@@ -28,7 +28,7 @@ To promote the communication among the Chinese ML & NLP community, we (along wit
 
 ### 💻 Selected Research Papers
 
-My full paper list is shown at [my personal homepage](https://rayeren.github.io).
+My full paper list is shown at [my personal homepage](https://www.xiaolinhu.art).
 
 #### 🎙 Audio and Speech Processing
 - [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, ICLR 2021
