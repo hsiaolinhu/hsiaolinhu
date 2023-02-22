@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Xiaolin Hu, pursuing Ph.D. at Gaoling School of Artificial Intelligence, Renmin University of China. I am fortunate to be advised by Prof. Yong Liu. Previously, I received my B.E. and M.E. degrees in communication and information system from Shanghai University in 2018 and 2021, respectively. I worked with Prof. Nicholas E. Buris in the Intelligent Multi-Input Multi-Output Systems(i-MIMOs) research group from 2018 to 2021. I was an Intern Researcher at OPPO Research Institute from October 2020 to February 2021.
+
+I have a signal processing background, my current research interests include the theory and applications of Federated Learning and Optimization.  
+
 I work at [Sea AI Lab](https://sail.sea.com/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as a research scientist now, leading the audio team and doing some fundamental audio-related research. We are [hiring researchers and engineers](https://career.sea.com/position/427) to work on TTS, music generation, speech translation and audio-driven talking face generation. If interested, feel free to email me at [renyi@sea.com](mailto:renyi@sea.com).
 
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> closely. 
