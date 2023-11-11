@@ -8,9 +8,9 @@ I'm Xiaolin Hu, pursuing Ph.D. at [Gaoling School of Artificial Intelligence](ht
 
 I am currently bridging large language models(LLMs) and the next-generation of intelligent personal computing platforms. Toward my vision of building a human-centered application ecosystem based on the fundation models, I am broadly interested in the following topics:
 
-(1) Science driven tuning: to pursue scientific principles bebind tuning
+(1) Science driven tuning: to pursue scientific principles behind optimization of LLMs and use them to guide human-centerd personal model development.
 
-(2) LLMs for Edge Devices: to study efficient method for tuning local LLMs
+(2) LLMs for Edge Devices: to study efficient method for deploying LLMs on edge devices and the communication challenges arising from large-scale agents.
 
 I won the [Shanghai University President Scholarship](https://news.shu.edu.cn/info/1021/47992.htm) (The highest honor among the scholarships at Shanghai University). 
 
