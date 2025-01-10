@@ -2,16 +2,14 @@
 
 <!-- I work at [Sea AI Lab](https://sail.sea.com/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as a research scientist now, leading the audio team and doing some fundamental audio-related research. We are [hiring researchers and engineers](https://career.sea.com/position/427) to work on TTS, music generation, speech translation and audio-driven talking face generation. If interested, feel free to email me at [renyi@sea.com](mailto:renyi@sea.com). -->
 
-I'm Xiaolin Hu, pursuing Ph.D. at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/) <img src='./images/logo-gsai-header-desktop.png' style='width: 8em;'> , Renmin University of China. I am fortunate to be advised by Prof. [Yong Liu](https://liuyonggsai.github.io/). Previously, I received my B.E. and M.E. degrees in communication and information system from Shanghai University in 2018 and 2021, respectively. I worked with Prof. [Nicholas E. Buris](https://www.linkedin.com/in/nick-buris-a974ba5/) in the Intelligent Multi-Input Multi-Output Systems(i-MIMOs) research group from 2018 to 2021. I was an Intern Researcher at [OPPO Research Institute](https://www.oppo.com/en/proposal/) <img src='./images/oppo-logo.png' style='width: 3em;'> from October 2020 to February 2021.
+I'm Xiaolin Hu, pursuing Ph.D. at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/) <img src='./images/logo-gsai-header-desktop.png' style='width: 8em;'> , Renmin University of China (RUC). I am fortunate to be advised by Prof. [Yong Liu](https://liuyonggsai.github.io/). Currently I am a Research Intern at [Xiaomi's AI Lab](https://www.mi.com/miai) <img src='./images/mi-logo.png' style="width: 2.3em;">, where I focus on Edge Large Language Models (LLMs), mentored by [Wei Liu](https://www.linkedin.com/in/wei-liu-40a97a39/?originalSubdomain=cn) and [Jian Luan](https://www.linkedin.com/in/jian-luan-58b5a428/?originalSubdomain=cn). Previously, I received my B.E. and M.E. degrees in communication and information system from Shanghai University in 2018 and 2021, respectively. Between 2018 and 2021, I collaborated with Prof. [Nicholas E. Buris](https://www.linkedin.com/in/nick-buris-a974ba5/) as part of the Intelligent Multi-Input Multi-Output Systems (i-MIMOs) research group. Additionally, I gained research experience as an Intern at the [OPPO Research Institute](https://www.oppo.com/en/proposal/) <img src='./images/oppo-logo.png' style="width: 3.8em;"> from October 2020 to February 2021, under the mentorship of [Xianyue Wu](https://www.linkedin.com/in/wuxianyue/) and [Tehuang Liu](https://www.linkedin.com/in/tehuangliu/?originalSubdomain=cn). 
 
 <!-- I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> closely.  -->
 
-I am currently bridging large language models(LLMs) and the next-generation of intelligent personal computing platforms. Toward my vision of building a human-centered application ecosystem based on the fundation models, I am broadly interested in the following topics:
 
-(1) Science driven tuning: to pursue scientific principles behind optimization of LLMs and use them to guide human-centerd personal model development.
-
-(2) LLMs for Edge Devices: to study efficient method for deploying LLMs on edge devices and the communication challenges arising from large-scale agents.
-
+I am currently bridging LLMs and personal edge devices. With a long-term goal of contributing to a human-centered application ecosystem based on large models, I am particularly interested in:
+(1) Science-Driven LLMs Training: Exploring the scientific principles of LLMs training and fine-tuning. 
+(2) Personal Edge LLMs Serving: Developing efficient algorithms for LLMs on edge devices to enhance personalized services.
 I won the [Shanghai University President Scholarship](https://news.shu.edu.cn/info/1021/47992.htm) (The highest honor among the scholarships at Shanghai University). 
 
 <!-- I have a signal processing background, my current research interests include the theory and methods of Federated Learning and Optimization. -->
@@ -32,11 +30,12 @@ To promote the communication among the Chinese ML & NLP community, we (along wit
 <!-- - DBLP: https://dblp.org/pid/75/6568-6.html -->
 
 ### 🔥 News
-- *2023.03*: Prof. Yong Liu presents our paper on generalization error of gederated leanring at AI TIME [[Video](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=231.7)].
-- *2023.03*: I attend the [2023 Workshop on Machine Learning Theory and Foundations](https://iiis.tsinghua.edu.cn/show-10351-1.html), Microsoft Research Asia.
-- *2023.03*: I Write a blog on statistical learning theory to AI4Science Community. See in [AI4Science101 blogs](https://ai4science101.github.io/blogs/statistical_learning_theory/).
-- *2023.01*: One paper is accepted by ICLR!
-
+- *2024.12*: One paper is accepted by AAAI 2025! [Stability and Generalization of Zeroth-Order Decentralized SGD with Changing Topology]()
+- *2024.11*: One paper is accepted by COLING 2025! [PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning](https://arxiv.org/abs/2409.16722) 
+- *2024.9*: One paper is accepted by NeurIPS 2025! [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768) 
+- *2024.6*: Xiaomi Young Scholar Research Program (PI: Yong Liu) received approval, focusing on fine-tuning edge LLMs for personalized services. 
+- *2024.5*: One Paper is accepted by KDD 2025! [LLMs may Dominate Information Access](https://arxiv.org/abs/2310.20501) 
+- *2023.12*: Started internship at Xiaomi AI Lab, focusing on efficient fine-tuning of edge LLMs. 
 
 <!-- 
 - Three papers are accepted by ACM-MM 2022!
@@ -51,11 +50,24 @@ To promote the communication among the Chinese ML & NLP community, we (along wit
 
 My full paper list is shown at [my personal homepage](https://www.xiaolinhu.art).
 
-#### 🎙 Generalization
+#### 🎙 Federated Learning Generalization
 
-- ``ICLR 2023`` [Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses](https://openreview.net/forum?id=-EHqoysUYLx)
-**Xiaolin Hu**, Shaojie Li, Yong Liu, [**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5)
+  - ``AAAI 2025`` [Stability and Generalization of Zeroth-Order Decentralized Stochastic Gradient Descent with Changing Topology]()
+  **Xiaolin Hu**, Zixuan Gong, Gengze Xu, Wei Liu, Jian Luan, Bin Wang, Yong Liu, **AAAI 2025**
 
+  - ``ICLR 2023`` [Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses](https://openreview.net/forum?id=-EHqoysUYLx)
+  **Xiaolin Hu**, Shaojie Li, Yong Liu, [**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5)
+
+#### 🧑‍🎨 Large Language Models
+
+  - ``NeurIPS 2024`` [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768)
+  Xinhao Yao, **Xiaolin Hu**, Shenzhi Yang, Yong Liu, **NeurIPS 2024**
+
+  - ``COLING 2025`` [PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning](https://arxiv.org/abs/2409.16722) 
+  Qibin Wang, **Xiaolin Hu**, Weikai Xu, Wei Liu, Jian Luan, Bin Wang, **COLING 2025**
+
+  - ``KDD 2024`` [Neural Retrievers are Biased Towards LLM-Generated Content](https://arxiv.org/abs/2310.20501)
+  Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu, **KDD 2024**
 
 #### 🧬 AI+Science
 
@@ -68,10 +80,9 @@ My full paper list is shown at [my personal homepage](https://www.xiaolinhu.art)
 - ``APMC 2020`` [Multiple Signal DoA Estimation with Unknown Electromagnetic Coupling using Gaussian Process](https://ieeexplore.ieee.org/document/9506234)
   Qifeng Wang, Nicholas E. Buris, **Xiaolin Hu**, **APMC 2020**
 
-#### 🧑‍🎨 Generative Model
+#### 🚍 Others
+
 - ``ICIP 2021`` [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234)
   Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen
-
-#### 🚍 Others
 - [Wavelength-tunable Q-switched fiber laser based on a 45 tilted fiber grating](https://www.oejournal.org/article/doi/10.12086/oee.2018.170741?viewType=HTML)
   **Xiaolin Hu**, Zhijun Yan, Qianqian Huang, Chuanhang Zou, Tianxing Wang, Chengbo Mou, **Opto-Electronic Engineering 2018**
